@@ -27,13 +27,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
-"""
-ALLOWED_HOSTS = [
-    '26.115.165.109'
-    '192.168.1.102'
-    '127.0.0.1'
-]
-"""
 
 
 # Application definition
@@ -98,9 +91,9 @@ WSGI_APPLICATION = 'inno.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'hackzh',
+        'NAME': 'name',
         'USER' : 'postgres',
-        'PASSWORD' : '14061405',
+        'PASSWORD' : 'password',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
