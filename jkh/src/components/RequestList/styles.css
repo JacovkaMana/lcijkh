@@ -1,0 +1,107 @@
+.RequestList {
+    flex: 0 1 45%;
+    align-self: stretch;
+    border-radius: 5px;
+}
+
+.RequestList__table {
+    width: 100%;
+    border-spacing: 0;
+    display: block;
+}
+
+.RequestList__table thead {
+    display: block;
+    position: relative;
+    width: 100%;
+    background-color: #3C97A8;
+    border-radius: 5px 5px 0 0;
+    overflow-y: scroll;
+}
+
+/* ::-webkit-scrollbar-track,
+::-webkit-scrollbar-thumb {
+    background: #3C97A8;
+} */
+
+.RequestList tbody {
+    display: block;
+    position: relative;
+    width: 100%;
+    overflow-y: scroll;
+    height: 630px;
+}
+
+.RequestList__table tr {
+    width: 100%;
+    display: flex;
+}
+
+.RequestList tbody tr {
+    cursor: pointer;
+}
+
+.RequestList__table td,
+.RequestList__table th {
+    flex-basis: 100%;
+    flex-grow: 2;
+    display: block;
+    text-align: center;
+    padding: 1rem;
+}
+
+.small-third-col td:nth-child(3),
+.small-third-col th:nth-child(3) {
+    flex-basis: 30%;
+    flex-grow: 0;
+}
+
+
+.RequestList__table th {
+    padding: 1.3rem 1rem;
+    font-size: 1.1rem;
+}
+
+.RequestList__listitem td {
+    color: #07315F;
+}
+
+.RequestList__listitem td:first-child {
+    position: relative;
+    padding-left: 12px;
+}
+
+.RequestList__listitem td:first-child::before {
+    content: "";
+    position: absolute;
+    background-color: #EAFAFC;
+    height: 100%;
+    width: 10px;
+    left: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.item-red td {
+    background-color: rgba(248, 0, 2, 0.25);
+}
+
+.item-red td:first-child::before {
+    background-color: #F80002;
+}
+
+.item-red:hover {
+    background-color: rgba(248, 0, 2, 0.27);
+}
+
+.item-yellow td {
+    background-color: rgba(255, 230, 0, 0.25);
+}
+
+.item-yellow:hover {
+    background-color: rgba(223, 200, 0, 0.45);
+}
+
+.item-yellow td:first-child::before {
+    background-color: #FFE600;
+}

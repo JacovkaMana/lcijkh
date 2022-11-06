@@ -1,0 +1,7 @@
+.RequestContainer {
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 42px 64px 60px 64px;
+    background-color: #EAFAFC;
+}

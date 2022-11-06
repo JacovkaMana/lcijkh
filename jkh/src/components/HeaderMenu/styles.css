@@ -1,0 +1,47 @@
+.HeaderMenu {
+    height: 82px;
+    background-color: #53ADBE;
+    color: #000;
+}
+
+.HeaderMenu__list-container {
+    position: relative;
+}
+
+.HeaderMenu__active-requests,
+.HeaderMenu__other {
+    position: absolute;
+    padding: 24px 0px;
+}
+
+.HeaderMenu__active-requests {
+    left: 64px;
+}
+
+.HeaderMenu__active-requests img {
+    margin: -24px 97px 0 0;
+}
+
+.HeaderMenu__other {
+    right: 64px;
+}
+
+.HeaderMenu__other button:first-child {
+    margin-right: 69px;
+}
+
+.HeaderMenu button {
+    font-size: 1.71rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+.HeaderMenu button:hover {
+    background-color: rgba(255, 254, 244, 0.5);
+    box-shadow: 0 0 7px rgb(110, 110, 110);
+}
+
+.HeaderMenu__active {
+    background-color: rgba(255, 254, 244, 0.5) !important;
+}

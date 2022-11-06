@@ -1,0 +1,13 @@
+.RequestAnalytics {
+    flex: 0 1 45%;
+    align-self: stretch;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.RequestAnalytics img {
+    max-width: 100%;
+
+}
