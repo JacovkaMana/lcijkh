@@ -1,0 +1,319 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name=ProgId content=Excel.Sheet>
+<title>Таблица</title>
+<style type="text/css">
+table {mso-displayed-decimal-separator:"\,"; mso-displayed-thousand-separator:" ";}
+  .c0{color: #333333; text-align: left; vertical-align: top; white-space: nowrap}
+  .c1{background-color: #d1d4db; color: #333333; text-align: left; vertical-align: top; white-space: nowrap; mso-number-format: "\@"}
+  .c2{background-color: #f0f0f3; color: #333333; text-align: right; vertical-align: top; white-space: nowrap; mso-number-format: "0"}
+  .c3{color: #333333; text-align: left; vertical-align: top; white-space: nowrap; mso-number-format: "0"}
+  .c4{color: #333333; text-align: right; vertical-align: top; white-space: nowrap; mso-number-format: "0"}
+  .c5{color: #333333; text-align: left; vertical-align: top; white-space: nowrap; mso-number-format: "\@"}
+  .c6{color: #333333; text-align: right; vertical-align: top; white-space: nowrap; mso-number-format: "\@"}
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Лист1</x:Name>
+    <x:WorksheetOptions>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>1</x:Number>
+      </x:Pane>
+     </x:Panes>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body>
+<table border="1" cellspacing="0" cellpadding="2">
+<col width="40">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<col width="100">
+<tr>
+<td class="c1" >#</td>
+<td class="c1" >Корневой ИД заявки</td>
+<td class="c1" >ИД версии заявки</td>
+<td class="c1" >Номер заявки</td>
+<td class="c1" >Уникальный номер обращения ГУ (mos.ru)</td>
+<td class="c1" >Дата создания заявки в формате Timezone</td>
+<td class="c1" >Дата начала действия версии заявки в формате Timezone</td>
+<td class="c1" >Наименование источника поступления заявки</td>
+<td class="c1" >Код источника поступления заявки</td>
+<td class="c1" >Имя создателя заявки</td>
+<td class="c1" >Признак инцидента</td>
+<td class="c1" >Корневой идентификатор материнской заявки</td>
+<td class="c1" >Номер материнской заявки</td>
+<td class="c1" >Пользователь, внесший последнее изменение</td>
+<td class="c1" >Роль организации пользователя</td>
+<td class="c1" >Комментарии</td>
+<td class="c1" >Наименование категории дефекта</td>
+<td class="c1" >Корневой идентификатор категории дефекта</td>
+<td class="c1" >Код категории дефекта</td>
+<td class="c1" >Наименование дефекта</td>
+<td class="c1" >Краткое наименование дефекта</td>
+<td class="c1" >Идентификатор дефекта</td>
+<td class="c1" >Код дефекта</td>
+<td class="c1" >Признак дефекта возврата на доработку</td>
+<td class="c1" >Описание</td>
+<td class="c1" >Наличие у заявителя вопроса</td>
+<td class="c1" >Наименование категории срочности: Аварийная, Обычная</td>
+<td class="c1" >Код категории срочности</td>
+<td class="c1" >Наименование округа</td>
+<td class="c1" >Код округа</td>
+<td class="c1" >Наименование района</td>
+<td class="c1" >Код района</td>
+<td class="c1" >Адрес проблемы</td>
+<td class="c1" >УНОМ</td>
+<td class="c1" >Подъезд</td>
+<td class="c1" >Этаж</td>
+<td class="c1" >Квартира</td>
+<td class="c1" >ОДС (номер объединенной диспетчерской службы)</td>
+<td class="c1" >Наименование управляющей компании</td>
+<td class="c1" >Наименование обслуживавшей организации (исполнителя)</td>
+<td class="c1" >Идентификатор организации-исполнителя</td>
+<td class="c1" >ИНН организации-исполнителя</td>
+<td class="c1" >Наименование статуса заявки</td>
+<td class="c1" >Код статуса заявки</td>
+<td class="c1" >Наименование причины отказа исполнителя</td>
+<td class="c1" >Идентификатор причины отказа исполнителя</td>
+<td class="c1" >Наименование причины отказа Организации-исполнителя</td>
+<td class="c1" >Идентификатор причины отказа Организации-исполнителя</td>
+<td class="c1" >Вид выполненных работ</td>
+<td class="c1" >Идентификатор корневой версии вида выполненных работ</td>
+<td class="c1" >Израсходованный материал</td>
+<td class="c1" >Наименование охранных мероприятий</td>
+<td class="c1" >Идентификатор корневой версии охранных мероприятий</td>
+<td class="c1" >Результативность</td>
+<td class="c1" >Код результативности</td>
+<td class="c1" >Кол-во возвратов на доработку</td>
+<td class="c1" >Дата последнего возврата на доработку</td>
+<td class="c1" >Признак нахождения на доработке</td>
+<td class="c1" >Признак “Оповещен”</td>
+<td class="c1" >Дата закрытия</td>
+<td class="c1" >Желаемое время с</td>
+<td class="c1" >Желаемое время до</td>
+<td class="c1" >Дата отзыва/оценки</td>
+<td class="c1" >Отзыв</td>
+<td class="c1" >Оценка качества выполнения работ</td>
+<td class="c1" >Код оценки качества выполнения ра</td>
+<td class="c1" >Наименование категории платности</td>
+<td class="c1" >Код категории платности</td>
+<td class="c1" >Признак оплаты картой</td>
+</tr>
+<tr>
+<td class="c2" x:num="1">1</td>
+<td class="c4" x:num="73407319">73407319</td>
+<td class="c4" x:num="73407724">73407724</td>
+<td class="c5" >00000001/21</td>
+<td class="c5" ></td>
+<td class="c5" >2021-01-01 00:01:09.519196+03</td>
+<td class="c5" >2021-01-01 01:05:24.918411+03</td>
+<td class="c5" >телефон</td>
+<td class="c5" >phone</td>
+<td class="c5" >frontline</td>
+<td class="c5" >Нет</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >KanaevaLL</td>
+<td class="c5" >Диспетчерская</td>
+<td class="c5" >Засор устранен, незначительный. АС Дорогомилово. Передано в 00:06, прибыли в 00:15, Устранили в 00:30. Исачкин</td>
+<td class="c5" >Канализация</td>
+<td class="c4" x:num="1595">1595</td>
+<td class="c5" ></td>
+<td class="c5" >Сложный засор унитаза (перелив воды)</td>
+<td class="c5" >Засор унитаза</td>
+<td class="c4" x:num="2209">2209</td>
+<td class="c5" >def_gen_ifi_feb_bbf_aea_jje_fcc_bfe_dfd_ggc_fbi_bfx</td>
+<td class="c5" >Нет</td>
+<td class="c5" >Унитаз вода переливается</td>
+<td class="c5" ></td>
+<td class="c5" >Аварийная</td>
+<td class="c5" >emergency</td>
+<td class="c5" >ЗАО</td>
+<td class="c4" x:num="800">800</td>
+<td class="c5" >Дорогомилово</td>
+<td class="c4" x:num="805">805</td>
+<td class="c5" >Кутузовский проспект, дом 15</td>
+<td class="c4" x:num="12407">12407</td>
+<td class="c5" >1</td>
+<td class="c5" >4</td>
+<td class="c5" >13</td>
+<td class="c5" >ОДС №587-Дорогомилово</td>
+<td class="c5" >ГБУ «ЖИЛИЩНИК РАЙОНА ДОРОГОМИЛОВО»</td>
+<td class="c5" >Аварийная служба (Дорогомилово)</td>
+<td class="c4" x:num="950705">950705</td>
+<td class="c5" ></td>
+<td class="c5" >Закрыта</td>
+<td class="c5" >request_resolved</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >Засор унитаза устранен</td>
+<td class="c4" x:num="15216">15216</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >Выполнено</td>
+<td class="c5" >resolved</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >Нет</td>
+<td class="c5" >Нет</td>
+<td class="c5" >2021-01-01 01:05:24.918411+03</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >бесплатная</td>
+<td class="c5" >free</td>
+<td class="c5" >Нет</td>
+</tr>
+<tr>
+<td class="c2" x:num="2">2</td>
+<td class="c4" x:num="73407334">73407334</td>
+<td class="c4" x:num="73518681">73518681</td>
+<td class="c5" >00000002/21</td>
+<td class="c5" ></td>
+<td class="c5" >2021-01-01 00:05:37.696825+03</td>
+<td class="c5" >2021-01-03 15:55:37.043081+03</td>
+<td class="c5" >телефон</td>
+<td class="c5" >phone</td>
+<td class="c5" >frontline</td>
+<td class="c5" >Нет</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >robot_cc</td>
+<td class="c5" >Внешняя система</td>
+<td class="c5" >ДС: течь началась еще в двух комнатах, необходима срочно аварийная служба;Заявка передана в аварийную службу;По приезду аварийной службы выявлено, бытовое залитие из квартиры № 211 течь бачка унитаза. перекрыта вода на квартиру, течь устранена.</td>
+<td class="c5" >Сантехника</td>
+<td class="c4" x:num="1594">1594</td>
+<td class="c5" ></td>
+<td class="c5" >Сильная течь по потолку, стенам (в квартире)</td>
+<td class="c5" >Течь по потолку, стенам с верхнего этажа в квартире</td>
+<td class="c4" x:num="4094">4094</td>
+<td class="c5" >def_gen_fdb_did_dfa_fgd_bbe_hag_ccj_gcj_fff_bda_cax</td>
+<td class="c5" >Нет</td>
+<td class="c5" >В большой комнате и туалете сильная течь, у соседей что то прорвало, вода хлещет</td>
+<td class="c5" ></td>
+<td class="c5" >Аварийная</td>
+<td class="c5" >emergency</td>
+<td class="c5" >ЗелАО</td>
+<td class="c4" x:num="1000">1000</td>
+<td class="c5" >Крюково</td>
+<td class="c4" x:num="1005">1005</td>
+<td class="c5" >город Зеленоград, корпус 1418</td>
+<td class="c4" x:num="31168">31168</td>
+<td class="c5" >4</td>
+<td class="c5" >11</td>
+<td class="c5" >207</td>
+<td class="c5" >ОДС №921-Крюково</td>
+<td class="c5" >ГБУ «ЖИЛИЩНИК ЗЕЛАО»</td>
+<td class="c5" >Мастерский участок № 14 (Крюково)</td>
+<td class="c4" x:num="34904">34904</td>
+<td class="c5" ></td>
+<td class="c5" >Закрыта</td>
+<td class="c5" >request_resolved</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >Разовое залитие (по вине соседей, выполнение работ не требуется)</td>
+<td class="c4" x:num="18324">18324</td>
+<td class="c5" ></td>
+<td class="c5" >Течь локализована. Перекрыта вода на стояк</td>
+<td class="c5" >18346</td>
+<td class="c5" >Выполнено</td>
+<td class="c5" >resolved</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >Нет</td>
+<td class="c5" >Нет</td>
+<td class="c5" >2021-01-01 01:03:13.839464+03</td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" ></td>
+<td class="c5" >бесплатная</td>
+<td class="c5" >free</td>
+<td class="c5" >Нет</td>
+</tr>
+</table>
+</body>
+</html>

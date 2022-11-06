@@ -1,0 +1,242 @@
+[
+  {
+    "unique_id": "73408051",
+    "description": "На кухне ХВС, топит соседей",
+    "started_at": "2021-01-01T02:56:30",
+    "defect_id_id": "2157",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "Ленинградский проспект, дом 9",
+      "latitude": 55.790337550000004,
+      "longitude": 37.546596446726866,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73408850",
+    "description": "в комнате сильно капает.",
+    "started_at": "2021-01-01T04:51:47",
+    "defect_id_id": "2283",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "улица Расковой, дом 5",
+      "latitude": 55.78772145,
+      "longitude": 37.57168204743062,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73410479",
+    "description": "На кухне и в комнате батареи холодные . У жителя кранов на приборах отопления нет.",
+    "started_at": "2021-01-03T14:45:19",
+    "defect_id_id": "2297",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "Ленинградский проспект, дом 14, корпус 1",
+      "latitude": 55.8055829,
+      "longitude": 37.5184495,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73412541",
+    "description": "Во всей квартире, нет отопления.",
+    "started_at": "2021-01-03T16:30:34",
+    "defect_id_id": "2297",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "Ленинградский проспект, дом 14, корпус 1",
+      "latitude": 55.8055829,
+      "longitude": 37.5184495,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73413308",
+    "description": "Около всего дома очистить от наледи, очистить от снега.",
+    "started_at": "2021-01-03T15:25:36",
+    "defect_id_id": "2203",
+    "status": "request_resolved",
+    "anomaly": true,
+    "adress_id": {
+      "adress": "улица Расковой, дом 23А",
+      "latitude": 55.790000750000004,
+      "longitude": 37.57519678188551,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73413392",
+    "description": "Во дворе дома 23а необходимо вывезти контейнер.",
+    "started_at": "2021-01-04T15:20:44",
+    "defect_id_id": "2294",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "улица Расковой, дом 23А",
+      "latitude": 55.790000750000004,
+      "longitude": 37.57519678188551,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73413663",
+    "description": "Нельзя выйти из подъезда,лёд",
+    "started_at": "2021-01-03T14:25:29",
+    "defect_id_id": "3392",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "улица Правды, дом 11",
+      "latitude": 55.7858787,
+      "longitude": 37.5782821,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73413783",
+    "description": "Не работает лифт",
+    "started_at": "2021-01-01T12:05:26",
+    "defect_id_id": "1776",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "улица Нижняя Масловка, дом 5",
+      "latitude": 55.7917454,
+      "longitude": 37.5837143,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73413873",
+    "description": "на 5 этаже на лестнице заменить 1 лампу",
+    "started_at": "2021-01-03T15:25:30",
+    "defect_id_id": "4328",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "улица Расковой, дом 16/26, корпус 2",
+      "latitude": 55.7901223,
+      "longitude": 37.5758995,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73413881",
+    "description": "На кухне холодный стояк и батарея холодная.",
+    "started_at": "2021-01-03T15:25:31",
+    "defect_id_id": "2297",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "Беговая улица, дом 18, корпус 2",
+      "latitude": 55.77868785,
+      "longitude": 37.56796614238955,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73414421",
+    "description": "Требуется очистить от снега и льда придомовую территорию со стороны подъездов и проход к контейнерной площадке.",
+    "started_at": "2021-01-03T14:20:32",
+    "defect_id_id": "3391",
+    "status": "request_resolved",
+    "anomaly": true,
+    "adress_id": {
+      "adress": "Скаковая улица, дом 18А",
+      "latitude": 55.78126315,
+      "longitude": 37.56733587275449,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73414874",
+    "description": "Скользко, посыпать реагентами у подъездов, на ступеньках крыльца  и вдоль проезда.",
+    "started_at": "2021-01-01T11:14:29",
+    "defect_id_id": "2203",
+    "status": "request_resolved",
+    "anomaly": true,
+    "adress_id": {
+      "adress": "1-й Боткинский проезд, дом 6",
+      "latitude": 55.78325825,
+      "longitude": 37.55864140532232,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73415215",
+    "description": "В коридоре и в комнате течет по стене, течет с потолка.",
+    "started_at": "2021-01-03T14:15:27",
+    "defect_id_id": "2283",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "Беговая улица, дом 4",
+      "latitude": 55.7756499,
+      "longitude": 37.5553309,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73415442",
+    "description": "вдоль всего дома_ гололед везде . тротуары. дорожки дорога  очистить от наледи скользко посыпать реагентами",
+    "started_at": "2021-01-03T14:15:18",
+    "defect_id_id": "3391",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "улица Расковой, дом 25",
+      "latitude": 55.790524500000004,
+      "longitude": 37.57565505058368,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73415560",
+    "description": "Единственный лифт стоит на 4 этаже не работает",
+    "started_at": "2021-01-01T11:28:04",
+    "defect_id_id": "1777",
+    "status": "request_resolved",
+    "anomaly": true,
+    "adress_id": {
+      "adress": "улица Нижняя Масловка, дом 5",
+      "latitude": 55.7917454,
+      "longitude": 37.5837143,
+      "region_id": 202,
+      "district_id": 200
+    }
+  },
+  {
+    "unique_id": "73415565",
+    "description": "В обоих кранах холодная вода",
+    "started_at": "2021-01-01T12:15:56",
+    "defect_id_id": "2228",
+    "status": "request_resolved",
+    "anomaly": false,
+    "adress_id": {
+      "adress": "улица Нижняя Масловка, дом 5",
+      "latitude": 55.7917454,
+      "longitude": 37.5837143,
+      "region_id": 202,
+      "district_id": 200
+    }
+  }
+]
