@@ -20,6 +20,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
 
+
 districts = {
 700: "red",
 500: "blue",
